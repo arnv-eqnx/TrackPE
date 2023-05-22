@@ -1,0 +1,19 @@
+.xyz{
+    border: 1px solid white;
+}
+
+.card-gradient{
+    background-color: rgba(41, 39, 136, 0.25);
+    border-radius: 15px;
+    padding: 0.5rem;
+}
+
+.bg-circle{
+    position: fixed;
+    bottom: -20vh;
+    right: -20vh;
+    height: 75vh;
+    width: 75vh;
+    z-index: -10;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(41, 39, 136, 0.25) 0%, rgba(41, 39, 136, 0) 100%);
+}
