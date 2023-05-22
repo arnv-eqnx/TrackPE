@@ -20,8 +20,8 @@ export default function Home() {
               <p className='text-[#c6cacb] text-xl'>Introducing</p>
               <p className='text-8xl font-semibold tracking-[5px]'>TrackPE</p>
               <p className='text-3xl'>Empowering your finances.</p>
-              {/* <p className='mt-4 text-lg text-[#c6cacb]'>Makha Sale Me Chhori Shopping KarkeTag Tu Paa De Zara KaRollie Hath Me Fendi Pair MeTashan Dekhiye Yaara Ka
-              Jab Challe Kaafila Caran KaTere Hosh Josh Se Kho JangeJine Tu Best Friend BataveEk Ghoor Me Roo Denge</p> */}
+              <p className='mt-4 text-lg text-[#c6cacb]'>Makha Sale Me Chhori Shopping KarkeTag Tu Paa De Zara KaRollie Hath Me Fendi Pair MeTashan Dekhiye Yaara Ka
+              Jab Challe Kaafila Caran KaTere Hosh Josh Se Kho JangeJine Tu Best Friend BataveEk Ghoor Me Roo Denge</p>
             </div>
             <div className=' flex gap-20 lg:h-[35vh]'>
               <div className='card-gradient w-[300px] h-[250px] flex flex-col items-center justify-center gap-4'>
